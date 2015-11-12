@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sound/Video App</string>
+    <string name="playButtonText">playButton</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="pauseButtonText">pause</string>
+    <string name="stopButtonText">stop</string>
+    <string name="videoButtonText">Video play</string>
+    <string name="homeButtonText">Go to sound</string>
+    <string name="title_activity_video">VideoActivity</string>
+
+</resources>
